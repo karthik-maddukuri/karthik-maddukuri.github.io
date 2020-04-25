@@ -2572,6 +2572,8 @@ input, select, textarea {
 		button.small,
 		.button.small {
 			font-size: 0.6em;
+			height: 3em;
+			position: bottom;
 		}
 
 		input[type="submit"].large,
@@ -3405,7 +3407,7 @@ input, select, textarea {
 			-ms-transition-delay: 0.75s;
 			transition-delay: 0.75s;
 			pointer-events: none;
-			background-color: #242943;
+			background-color: #24525ab7;
 			content: '';
 			display: block;
 			height: 100%;
